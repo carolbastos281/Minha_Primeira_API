@@ -1,0 +1,8 @@
+Tecnologias Utilizadas
+Python 3
+
+FastAPI: Para a construção da API.
+
+Uvicorn: Como servidor ASGI para rodar a API.
+
+Pandas: Para o carregamento inicial dos dados do arquivo CSV.
